@@ -1,4 +1,4 @@
-### Olá! Eu Sou a Taize Moreira, Acadêmica de Psicologia e Sistemas de Informação! 👋
+### Olá! Eu Sou a Taize Moreira! 👋
 
 <div align="center">
   <a href="https://github.com/taizemoreira">
