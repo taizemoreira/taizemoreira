@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taize Moreira</h1>
+<h1 align="center">Olá 👋, Eu sou a Taize Moreira</h1>
 <h3 align="center">Front End Development Student</h3>
 
 - 🔭 **Participando do curso Jovem Programador - Senac**
