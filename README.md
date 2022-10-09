@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taize Moreira</h1>
 <h3 align="center">Front End Development Student</h3>
 
-- 🔭 Participando do curso Jovem Programador - Senac**
+- 🔭 **Participando do curso Jovem Programador - Senac**
 
 - 🌱 I’m currently learning **Javascript, Angular, C#**
 
