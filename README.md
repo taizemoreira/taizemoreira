@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Taize Moreira</h1>
 <h3 align="center">Front End Development Student</h3>
 
-- 🔭 I’m currently working on **Front End Development**
+- 🔭 Participando do curso Jovem Programador - Senac**
 
 - 🌱 I’m currently learning **Javascript, Angular, C#**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taizemoreira&show_icons=true&locale=en&layout=compact&theme=radical" alt="taizemoreira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taizemoreira&show_icons=true&locale=en&theme=radical" alt="taizemoreira" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taizemoreira&theme=radical" alt="taizemoreira" /></p>
 
 ##
  
