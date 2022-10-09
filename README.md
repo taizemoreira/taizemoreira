@@ -5,10 +5,9 @@
 
 - 🌱 I’m currently learning **Javascript, Angular, C#**
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taizemoreira&show_icons=true&locale=en&layout=compact&theme=radical" alt="taizemoreira" /></p>
-
 <div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taizemoreira&show_icons=true&locale=en&layout=compact&theme=radical" alt="taizemoreira" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taizemoreira&show_icons=true&locale=en&theme=radical" alt="taizemoreira" /></p>
 </div>
 
