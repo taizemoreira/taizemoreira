@@ -1,5 +1,4 @@
 <h1 align="center">Olá	:jack_o_lantern:, Eu sou a Taize :books:</h1>
-<h3 align="center">Front End Development Student</h3>
 
 ![Taize Moreira](https://res.cloudinary.com/dbanufndd/image/upload/v1666393419/imagem_capa_dwk786.png)
 
