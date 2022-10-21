@@ -1,9 +1,9 @@
-<h1 align="center">Olá 👋, Eu sou a Taize Moreira</h1>
+<h1 align="center">Olá	:jack_o_lantern:, Eu sou a Taize :books:</h1>
 <h3 align="center">Front End Development Student</h3>
 
-- 🔭 **Participando do curso Jovem Programador - Senac**
+:nazar_amulet: **Participando do curso Jovem Programador - Senac**
 
-- 🌱 I’m currently learning **Javascript, Angular, C#**
+:nazar_amulet: I’m currently learning **Javascript, Angular, C#**
 
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taizemoreira&show_icons=true&locale=en&layout=compact&theme=radical" alt="taizemoreira" /></p>
