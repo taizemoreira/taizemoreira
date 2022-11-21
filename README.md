@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Eu sou a Taize :books:</h1>
 
-![Taize Moreira](https://res.cloudinary.com/dbanufndd/image/upload/v1666393419/imagem_capa_dwk786.png)
+
 
 :nazar_amulet: **Participando do curso Jovem Programador - Senac**
 
