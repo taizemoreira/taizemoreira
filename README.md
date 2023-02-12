@@ -2,7 +2,7 @@
 
 
 
-:nazar_amulet: **Participando do curso Jovem Programador - Senac**
+:nazar_amulet: **"Apaixonado por tecnologia e pela compreensão humana. Formado em Sistemas de Informação e Psicologia, uno o melhor dos dois mundos para criar soluções inovadoras. Acredito que a tecnologia pode melhorar significativamente nossas vidas se usada de forma consciente e ética. Quando não estou codificando ou estudando, você pode me encontrar viajando ou lendo um bom livro." #sistemasdeinformação #psicologia #tecnologia **
 
 :nazar_amulet: **Javascript, Angular, C#**
 
