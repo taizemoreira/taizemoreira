@@ -1,18 +1,16 @@
-<h1 align="center"> Olá e bem-vindo(a) ao meu perfil!  :books:</h1>
+<h1 align="center"> Hello and welcome to my profile!  :books:</h1>
 
- Meu nome é Taize Moreira e sou acadêmica de Sistemas de Informação. 
- Este perfil é uma vitrine do meu trabalho e projetos que desenvolvo em minha carreira.
+ My name is Taize Moreira and I am a Systems Information undergraduate. This profile is a showcase of my work and projects that I have developed throughout my career.
 
-Eu sou apaixonada por tecnologia e estou aprendendo programação, incluindo C# e Angular. Ao longo da minha carreira, fiz diversos cursos na área de desenvolvimento. Meu objetivo é sempre aprender e evoluir, aprimorando minhas habilidades e entregando soluções de qualidade.
+I am passionate about technology and I am currently learning programming, including C# and Angular. Throughout my career, I have taken several courses in the development field. My goal is to always learn and grow, improving my skills and delivering high-quality solutions.
 
-Neste perfil, você encontrará uma variedade de projetos que desenvolvi, desde projetos pessoais até contribuições em projetos open source. Eu me dedico a desenvolver soluções inovadoras e práticas, e espero que você encontre algo que chame sua atenção e inspire seu próprio trabalho.
+In this profile, you will find a variety of projects that I have developed, from personal projects to contributions in open source projects. I am dedicated to developing innovative and practical solutions, and I hope that you find something that catches your attention and inspires your own work.
 
-Além do GitHub, você pode encontrar mais informações sobre mim e meu trabalho no meu linkedin:  e também no Instagram: .
+Besides GitHub, you can find more information about me and my work on my LinkedIn: and also on Instagram: .
 
-Sinta-se à vontade para explorar meu perfil, me seguir e entrar em contato caso tenha alguma dúvida ou interesse em colaborar em algum projeto.
+Feel free to explore my profile, follow me and contact me if you have any questions or interest in collaborating on a project.
 
-Obrigado pela visita e espero que você encontre algo de valor em meu perfil!
- 
+Thank you for visiting and I hope you find something of value in my profile!
  **Javascript, Angular, C#**
 
 ##
