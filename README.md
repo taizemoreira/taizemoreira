@@ -2,7 +2,17 @@
 
 
 
- "Apaixonada por tecnologia e pelo comportamento humano. Formada em Sistemas de Informação e Psicologia, unindo o melhor dos dois mundos para criar soluções inovadoras. Acredito que a tecnologia pode melhorar significativamente nossas vidas se usada de forma consciente e ética. Quando não estou codificando ou estudando, você pode me encontrar viajando ou lendo um bom livro." 
+ Olá e bem-vindo(a) ao meu perfil no GitHub! Meu nome é Taize Moreira e sou acadêmica de Sistemas de Informação. Este perfil é uma vitrine do meu trabalho e projetos que desenvolvo em minha carreira.
+
+Eu sou apaixonada por tecnologia e estou aprendendo em programação, incluindo C# e Angular. Ao longo da minha carreira, fiz diversos cursos na área de desenvolvimento. Meu objetivo é sempre aprender e evoluir, aprimorando minhas habilidades e entregando soluções de qualidade.
+
+Neste perfil, você encontrará uma variedade de projetos que desenvolvi, desde projetos pessoais até contribuições em projetos open source. Eu me dedico a desenvolver soluções inovadoras e práticas, e espero que você encontre algo que chame sua atenção e inspire seu próprio trabalho.
+
+Além do GitHub, você pode encontrar mais informações sobre mim e meu trabalho no meu linkedin:  e também no Instagram: .
+
+Sinta-se à vontade para explorar meu perfil, me seguir e entrar em contato caso tenha alguma dúvida ou interesse em colaborar em algum projeto.
+
+Obrigado pela visita e espero que você encontre algo de valor em meu perfil!
  
  **Javascript, Angular, C#**
 
