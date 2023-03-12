@@ -1,4 +1,4 @@
-<h1 align="center"> Olá e bem-vindo(a) ao meu perfil no GitHub!  :books:</h1>
+<h1 align="center"> Olá e bem-vindo(a) ao meu perfil!  :books:</h1>
 
  Meu nome é Taize Moreira e sou acadêmica de Sistemas de Informação. 
  Este perfil é uma vitrine do meu trabalho e projetos que desenvolvo em minha carreira.
