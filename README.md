@@ -4,7 +4,7 @@
 
  Olá e bem-vindo(a) ao meu perfil no GitHub! Meu nome é Taize Moreira e sou acadêmica de Sistemas de Informação. Este perfil é uma vitrine do meu trabalho e projetos que desenvolvo em minha carreira.
 
-Eu sou apaixonada por tecnologia e estou aprendendo em programação, incluindo C# e Angular. Ao longo da minha carreira, fiz diversos cursos na área de desenvolvimento. Meu objetivo é sempre aprender e evoluir, aprimorando minhas habilidades e entregando soluções de qualidade.
+Eu sou apaixonada por tecnologia e estou aprendendo programação, incluindo C# e Angular. Ao longo da minha carreira, fiz diversos cursos na área de desenvolvimento. Meu objetivo é sempre aprender e evoluir, aprimorando minhas habilidades e entregando soluções de qualidade.
 
 Neste perfil, você encontrará uma variedade de projetos que desenvolvi, desde projetos pessoais até contribuições em projetos open source. Eu me dedico a desenvolver soluções inovadoras e práticas, e espero que você encontre algo que chame sua atenção e inspire seu próprio trabalho.
 
