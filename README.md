@@ -11,6 +11,7 @@ Besides GitHub, you can find more information about me and my work on my LinkedI
 Feel free to explore my profile, follow me and contact me if you have any questions or interest in collaborating on a project.
 
 Thank you for visiting and I hope you find something of value in my profile!
+<br>
  **Javascript, Angular, C#**
 
 ##
