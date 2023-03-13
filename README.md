@@ -6,7 +6,7 @@ I am passionate about technology and I am currently learning programming, includ
 
 In this profile, you will find a variety of projects that I have developed, from personal projects to contributions in open source projects. I am dedicated to developing innovative and practical solutions, and I hope that you find something that catches your attention and inspires your own work.
 
-Besides GitHub, you can find more information about me and my work on my LinkedIn: and also on Instagram: .
+Besides GitHub, you can find more information about me and my work on my LinkedIn and also on Instagram.
 
 Feel free to explore my profile, follow me and contact me if you have any questions or interest in collaborating on a project.
 
