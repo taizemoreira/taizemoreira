@@ -12,7 +12,10 @@ Feel free to explore my profile, follow me and contact me if you have any questi
 
 Thank you for visiting and I hope you find something of value in my profile!
 <br>
- **Javascript, Angular, C#**
+ - 🔭 I’m currently working on **Academia do Programador**
+
+- 🌱 I’m currently learning **C#, Angular**
+
 
 ##
 ##
