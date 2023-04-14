@@ -1,4 +1,4 @@
-<h1 align="center"> Hello and welcome to my profile!  :books:</h1>
+<h1 align="center"> Olá, Bem vindo ao meu perfil!  :books:</h1>
 
 Meu nome é Taize Moreira e sou graduanda em Sistemas de Informação. Este perfil é uma vitrine do meu trabalho e projetos que desenvolvi ao longo da minha carreira.
 
