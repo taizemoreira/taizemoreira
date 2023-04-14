@@ -17,7 +17,5 @@ Obrigada pela visita e espero que encontre algo de valor no meu perfil!
 🌱 Estou aprendendo C# e Angular
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taizemoreira&show_icons=true&locale=en&layout=compact" alt="taizemoreira" />
-
 
  ![Snake animation](https://github.com/taizemoreira/taizemoreira/blob/output/github-contribution-grid-snake.svg)
