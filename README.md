@@ -12,9 +12,9 @@ Sinta-se à vontade para explorar meu perfil, seguir-me e entrar em contato se t
 
 Obrigada pela visita e espero que encontre algo de valor no meu perfil!
 
-🔭 Atualmente estou trabalhando na Academia do Programador
+🔭 Atualmente estou na Academia do Programador
 
-🌱 Estou aprendendo C#, Angular
+🌱 Estou aprendendo C# e Angular
 </br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taizemoreira&show_icons=true&locale=en&layout=compact" alt="taizemoreira" />
