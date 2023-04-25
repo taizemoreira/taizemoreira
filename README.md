@@ -2,7 +2,7 @@
 
 Sou Taize Moreira, graduanda em Sistemas de Informação, apaixonada por tecnologia e programação. Este perfil é uma vitrine do meu trabalho e projetos que desenvolvi ao longo da minha carreira.<br> Dedico-me a desenvolver soluções inovadoras e práticas e sempre busco aprender e crescer, aprimorando minhas habilidades e entregando soluções de alta qualidade.
 
-🔭  Aqui no GitHub, você encontrará uma variedade de projetos que desenvolvi, desde projetos pessoais até contribuições em projetos de código aberto.<br>
+🔭  Aqui no GitHub, você encontrará uma variedade de projetos que desenvolvi, desde projetos pessoais até contribuições em projetos de código aberto.
 Além disso, você pode encontrar mais informações sobre mim e meu trabalho no LinkedIn e Instagram.
 
 🌱  Atualmente estou na Academia do Programador e aprendendo C# e Angular. 
