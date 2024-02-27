@@ -3,4 +3,4 @@
 </br>
 
 
- ![Snake animation](https://github.com/taizemoreira/taizemoreira/blob/output/github-contribution-grid-snake.svg)
+ 
